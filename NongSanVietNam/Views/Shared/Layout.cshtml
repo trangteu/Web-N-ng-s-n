@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <script src="~/scripts/jquery-1.10.2.js"></script>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/jquery-ui.css" rel="stylesheet" />
+    <link href="~/source/jquery.fancybox.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <script src="~/scripts/jquery-ui.js"></script>
+    <script src="~/scripts/bootstrap.js"></script>
+    <script src="~/source/jquery.fancybox.js"></script>
+
+    <title>Nông Sản Việt Nam</title>
+</head>
+<body>
+    <div> 
+        <div class="page-header PhanDau">
+            <div class="container">
+                <img src="/Mediasfiles/banner---rau-vineco---adr.jpg" style="width:100%" />
+            </div>
+        </div>
+        <div class="container">
+            @Html.Action("Menu", "Home")
+        </div>
+
+        <div class="container body-content">
+            <div class="row">
+                <div class="col-sm-4 col-md-3">
+                    @Html.Action("LeftMenu", "Home");
+                </div>
+                <div class="col-sm-8 col-md-9">
+                    @RenderBody()
+                </div>
+            </div>
+        </div>
+        <footer class="container" style="text-align:center">
+            <p style="padding-top:5px">
+                <b style="font:large">NÔNG SẢN VIỆT NAM</b><br />
+                Địa chỉ: TP. Quốc Oai - Hà Nội.<br />
+                Hotline: 0347.882.280
+            </p>
+        </footer>
+
+    </div>
+</body>
+</html>

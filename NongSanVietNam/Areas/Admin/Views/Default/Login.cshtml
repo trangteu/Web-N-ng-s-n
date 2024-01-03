@@ -1,0 +1,49 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+    <script src="~/Scripts/jquery-1.10.2.js"></script>
+    <script src="~/Scripts/bootstrap.js"></script>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/AdminStyle.css" rel="stylesheet" />
+</head>
+<body>
+    @using (Html.BeginForm("Login", "Default", FormMethod.Post))
+    {
+    <div class="LoginLayout">
+        <div class="row">
+            <div class="col-md-offset-1 col-md-10">
+                <div>
+                    @Html.TextBox("txtTen", null, new { @class = "form-control", placeholder = "Tên đăng nhập" })
+                </div><!-- /input-group -->
+                <br />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-offset-1 col-md-10">
+                <div>
+                    @Html.Password("txtMK", null, new { @class = "form-control", placeholder = "Mật khẩu" })
+                </div><!-- /input-group -->
+                <br />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-offset-2 col-md-9" style="text-align:center">
+                <div class="input-group">
+                <br />
+                    <input type="submit" value="Đăng nhập" class="btn btn-primary"/>&nbsp;&nbsp;
+                    <a href="~/Home/Index" class="btn btn-danger">Về trang chủ</a>
+                </div><!-- /input-group -->
+            </div>
+        </div>
+    </div>
+    }
+</body>
+</html>

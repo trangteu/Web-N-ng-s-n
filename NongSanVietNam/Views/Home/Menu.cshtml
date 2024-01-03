@@ -1,0 +1,17 @@
+﻿<nav class="navbar navbar-default Menu">
+    <div class="container-fluid">
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("TRANG CHỦ","Index","Home")</li>
+                <li><a href="#">GIỚI THIỆU</a></li>
+                <li>@Html.ActionLink("NÔNG SẢN","Index","NongSan")</li>
+                <li>@Html.ActionLink("TIN TỨC", "Index", "TinTuc")</li>
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    @Html.ActionLink("ĐĂNG NHẬP", "Index", "Default", new { area = "Admin" }, null)
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>

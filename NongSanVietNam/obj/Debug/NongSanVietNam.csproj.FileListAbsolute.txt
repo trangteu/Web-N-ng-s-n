@@ -1,0 +1,103 @@
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\roslyn\csc.exe
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\roslyn\vbc.exe
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\roslyn\VBCSCompiler.exe
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\NongSanVietNam.dll.config
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\NongSanVietNam.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\NongSanVietNam.pdb
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\EntityFramework.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\EntityFramework.SqlServer.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.Web.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\Microsoft.ApplicationInsights.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\System.Web.Helpers.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\System.Web.Mvc.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\System.Web.Razor.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\System.Web.Webpages.Deployment.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\System.Web.Webpages.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\System.Web.Webpages.Razor.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\EntityFramework.xml
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\EntityFramework.SqlServer.xml
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.Web.xml
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\Microsoft.ApplicationInsights.xml
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\System.Web.Razor.xml
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\System.Web.Webpages.xml
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\System.Web.Webpages.Deployment.xml
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\System.Web.Webpages.Razor.xml
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\System.Web.Helpers.xml
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\System.Web.Mvc.xml
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\obj\Debug\NongSanVietNam.dll
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\obj\Debug\NongSanVietNam.pdb
+c:\Users\hoang.HOANGHUNG\Documents\Visual Studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\CKFinder.pdb
+C:\Users\hoang.HOANGHUNG\documents\visual studio 2015\Projects\NongSanVietNam\NongSanVietNam\bin\CKFinder.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\roslyn\csc.exe
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\roslyn\System.Collections.Immutable.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\roslyn\System.Reflection.Metadata.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\roslyn\vbc.exe
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\roslyn\VBCSCompiler.exe
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\roslyn\VBCSCompiler.exe.config
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\NongSanVietNam.dll.config
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\NongSanVietNam.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\NongSanVietNam.pdb
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\CKFinder.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\EntityFramework.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\EntityFramework.SqlServer.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.DependencyCollector.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.Web.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.WindowsServer.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\Microsoft.ApplicationInsights.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\Microsoft.Web.Infrastructure.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\System.Web.Helpers.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\System.Web.Mvc.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\System.Web.Razor.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\System.Web.Webpages.Deployment.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\System.Web.Webpages.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\System.Web.Webpages.Razor.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\CKFinder.pdb
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\EntityFramework.xml
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\EntityFramework.SqlServer.xml
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.DependencyCollector.xml
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.Web.xml
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\Microsoft.AI.WindowsServer.xml
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\Microsoft.ApplicationInsights.xml
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\System.Web.Razor.xml
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\System.Web.Webpages.xml
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\System.Web.Webpages.Deployment.xml
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\System.Web.Webpages.Razor.xml
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\System.Web.Helpers.xml
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\bin\System.Web.Mvc.xml
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\obj\Debug\NongSanVietNam.csproj.AssemblyReference.cache
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\obj\Debug\NongSanVietNam.csproj.CoreCompileInputs.cache
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\obj\Debug\NongSanVietNam.csproj.CopyComplete
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\obj\Debug\NongSanVietNam.dll
+E:\Học Kì I (2022-2023)\Lập Trình Web Nâng Cao\NongSanVietNam\NongSanVietNam\NongSanVietNam\obj\Debug\NongSanVietNam.pdb
